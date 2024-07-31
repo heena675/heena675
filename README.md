@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720396800&semt=ais_user" alt="cover" />
 </div>
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
