@@ -25,7 +25,7 @@
 
  <h2> Languages and tools ⚙️ </h2>
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/cicd.svg" alt="GCP Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" width="50" height="50"/>
