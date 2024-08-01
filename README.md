@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80%" height = "250px" src="https://thumbs.dreamstime.com/b/devops-software-development-concept-devops-software-development-concept-172250871.jpg" alt="cover" />
+<img width="70%" height = "250px" src="https://thumbs.dreamstime.com/b/devops-software-development-concept-devops-software-development-concept-172250871.jpg" alt="cover" />
 </div>
 
 <h1> Hello Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
