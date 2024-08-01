@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width="55%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSK-ayiZw8cTx6yWCOMTGhz0OydJhKoHgK6Q&s" />
+<img width="55%" align="right" alt="Github" src="https://png.pngtree.com/thumb_back/fw800/background/20230806/pngtree-an-animated-paper-cut-out-of-a-blue-wave-image_13009432.jpg" />
 
 
 - 💻 I’m a DevOps enthusiast
