@@ -5,8 +5,6 @@
 <h1> Hello Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=heena756)
-
 </p>
 <div size='20px'> Hi! My name is Heena Verma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -25,7 +23,7 @@
 
  <h2> Languages and tools ⚙️ </h2>
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/cicd.svg" alt="GCP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/cicd.svg" alt="CICD Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" width="50" height="50"/>
