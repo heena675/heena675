@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://img.freepik.com/free-vector/hand-drawn-devops-illustration_23-2149388660.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722297600&semt=ais_hybrid" alt="cover" />
+<img width="100%" height = "250px" src="https://thumbs.dreamstime.com/b/devops-software-development-concept-devops-software-development-concept-172250871.jpg" alt="cover" />
 </div>
 
 <h1> Hello Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
