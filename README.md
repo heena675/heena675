@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**heena675/heena675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Kubernetes, DevOps, and Cloud Technologies**.
+- 🔭 I’m working on a **personal ChatGPT project** hosted on AKS.
+- 🛠️ My skillset includes **Terraform, Docker, Kubernetes, Azure, and CI/CD pipelines**.
+- 📫 How to reach me: [vheena176@gmail.com](mailto:vheena176@gmail.com)
+- ⚡ Fun fact: I love tech discussions and automating workflows!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Featured Projects
+1. [Personal ChatGPT](https://github.com/your-username/personal-chatgpt): Hosted on AKS using lightweight Ollama image.
+2. [DevOps Pipelines](https://github.com/your-username/devops-pipelines): Collection of YAMLs for CI/CD workflows.
+
+---
+
+Feel free to explore my repositories and connect with me!
