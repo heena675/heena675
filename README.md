@@ -42,7 +42,7 @@
 
 ### 🌟 Featured Projects
 1. [Personal ChatGPT](https://github.com/heena675/Ollama-K8s-manifests): Hosted on AKS using lightweight Ollama image.
-2. [DevOps Pipelines](https://github.com/your-username/devops-pipelines): Collection of YAMLs for CI/CD workflows.
+2. [DevOps Pipelines](https://github.com/anu-kumari-24/git-demo): Collection of YAMLs for CI/CD workflows.
 
 ---
 
