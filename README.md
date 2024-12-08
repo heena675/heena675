@@ -34,8 +34,13 @@
 </p>
 
 
-<h2> Connect with me <img src='https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif?cid=ecf05e47op58k874i9g3yungla1kpc91r3ia5jqho8x3k5iw&rid=giphy.gif&ct=s' width="50px"> </h2>
-<a href = 'www.linkedin.com/in/heena-verma-a33227315'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> 
+<h2> Connect with me 
+  <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif?cid=ecf05e47op58k874i9g3yungla1kpc91r3ia5jqho8x3k5iw&rid=giphy.gif&ct=s" width="50px" alt="Connect gif">
+</h2>
+<a href="https://www.linkedin.com/in/heena-verma-a33227315" target="_blank">
+  <img width="32px" align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn logo">
+</a>
+
 
 
 ### 🌟 Featured Projects
