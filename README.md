@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.sanity.io/images/hgftikht/production/a509f5decc9536996167ccedad55b9ad4f1d2806-2155x1279.png?w=1400&h=831&fit=crop" alt="cover" />
+<img width="100%" height = "500px" src="https://cdn.sanity.io/images/hgftikht/production/a509f5decc9536996167ccedad55b9ad4f1d2806-2155x1279.png?w=1400&h=831&fit=crop" alt="cover" />
 </div>
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
