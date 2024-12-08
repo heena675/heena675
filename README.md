@@ -24,14 +24,12 @@
 
  <h2> Languages and tools ⚙️ </h2>
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" idth="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="Jenkins Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
 </p>
 
@@ -43,6 +41,7 @@
 ### 🌟 Featured Projects
 1. [Personal ChatGPT](https://github.com/heena675/Ollama-K8s-manifests): Hosted on AKS using lightweight Ollama image.
 2. [DevOps Pipelines](https://github.com/anu-kumari-24/git-demo): A collaborative project performed to create a generalised Terraform code and run in Azure devops pipeline environment ensuring industry best practices.
+3.[Terraform Code](https://github.com/heena675/terraform_code_practice.git): A repository for various Azure resources created through Terraform.
 
 ---
 
